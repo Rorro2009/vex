@@ -1,0 +1,26 @@
+body
+{
+    text-align: center;
+    background-color: white;
+}
+
+.my_nav_bar
+{
+    position:sticky;
+    top:0;
+    z-index:99999;
+    background-color: rgb(62, 62, 231);
+    
+}
+.my_nav_bar ul li a 
+{
+    color: rgb(255, 255, 255) !important;
+}
+p
+{
+    font-size: 20px;
+    color: rgb(0, 0, 0) !important;
+}
+h5{
+    font-size: 25px;
+}
